@@ -11,5 +11,6 @@ body p {
 </head>
 <body>
 <p>我的第一個PHP網頁 </p>
+<p>我喜歡PHP網頁 </p>
 </body>
 </html>
